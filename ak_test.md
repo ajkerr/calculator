@@ -1,1 +1,1 @@
-THis is teh NEW content
+The is the correct content
